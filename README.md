@@ -1,6 +1,6 @@
 ### Hi! 👋
 - 💻 Working at [Anchor Software](https://anchorgroup.software/)
-- 📖 Studying at [Zachodniopomorska Szkoła Biznesu](https://www.zpsb.pl/)
+- 📖 Studying at [West Pomeranian Business School](https://www.zpsb.pl/)
 - 📫 How to reach me: kwapisz.maciej.it@gmail.com
 <!--
 **ciameksw/ciameksw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
