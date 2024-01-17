@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
      <h3>Hi! 👋</h3>
      <ul>
       <li>
@@ -14,6 +14,6 @@
       </li>
      </ul>
     </td>
-    <td valign="top"><img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciameksw&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" /></td>
+    <td valign="top" width="50%"><img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciameksw&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" /></td>
   </tr>
 </table>
